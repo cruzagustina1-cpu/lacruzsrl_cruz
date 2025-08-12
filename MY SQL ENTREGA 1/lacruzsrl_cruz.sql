@@ -1,0 +1,1 @@
+SELECT * FROM la_cruz.vista_servicios_resumen;
